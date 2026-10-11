@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1200" viewBox="0 0 800 1200">
+  <rect width="800" height="1200" fill="#eaf8f2"/>
+  <rect x="120" y="120" width="560" height="960" rx="32" fill="#ffffff" stroke="#cfe8dc" stroke-width="3"/>
+  <rect x="170" y="210" width="460" height="170" rx="18" fill="#0f6c4d" opacity="0.12"/>
+  <rect x="170" y="430" width="220" height="20" rx="10" fill="#0f6c4d" opacity="0.18"/>
+  <rect x="170" y="480" width="300" height="18" rx="9" fill="#0f6c4d" opacity="0.12"/>
+  <rect x="170" y="520" width="260" height="18" rx="9" fill="#0f6c4d" opacity="0.12"/>
+  <rect x="170" y="700" width="150" height="44" rx="22" fill="#0f6c4d" opacity="0.12"/>
+  <text x="400" y="350" text-anchor="middle" font-family="Hind Siliguri, Arial, sans-serif" font-size="48" font-weight="700" fill="#0f6c4d">BookCycle</text>
+  <text x="400" y="820" text-anchor="middle" font-family="Hind Siliguri, Arial, sans-serif" font-size="32" fill="#4c5d59">বই</text>
+</svg>
