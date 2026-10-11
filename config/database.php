@@ -19,10 +19,10 @@ $databaseSetting = static function (string $name, string $default): string {
     return $default;
 };
 
-define('DB_HOST', $databaseSetting('DB_HOST', 'sql211.infinityfree.com'));
-define('DB_NAME', $databaseSetting('DB_NAME', 'if0_43117205_bookcl'));
-define('DB_USER', $databaseSetting('DB_USER', 'if0_43117205'));
-define('DB_PASS', $databaseSetting('DB_PASS', 'WRWwqdNMfZOG'));
+define('DB_HOST', $databaseSetting('DB_HOST', 'sql211..com'));
+define('DB_NAME', $databaseSetting('DB_NAME', ''));
+define('DB_USER', $databaseSetting('DB_USER', ''));
+define('DB_PASS', $databaseSetting('DB_PASS', ''));
 define('DB_CHARSET', 'utf8mb4');
 
 function getDb(): PDO
